@@ -11,6 +11,6 @@ script responds when donation is available support synapseX only
 - Enjoy!
 
 ## Example
-- Twitter https://twitter.com/i/status/1622178583077879808
+- Twitter https://twitter.com/AsamiKafune/status/1628682191839584257
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
