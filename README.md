@@ -12,6 +12,5 @@ script responds when donation is available support synapseX only
 
 ## Example
 - Twitter https://twitter.com/i/status/1622178583077879808
-![img](https://cdn.discordapp.com/attachments/1062760787304788029/1078238521879441479/image.png)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
