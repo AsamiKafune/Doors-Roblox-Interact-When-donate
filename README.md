@@ -1,4 +1,5 @@
-#Synapse X
+# Doors-Roblox-Interact-When-donate
+script responds when donation is available support synapseX only
 
 ## How to use
 - Gitclone https://github.com/AsamiKafune/Doors-Roblox-Interact-When-donate.git
